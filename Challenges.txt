@@ -1,0 +1,5 @@
+With the second screen (the screen where the user selects I can teach or I want to learn) ->
+
+it should be tabs or accordion? Anything would have worked in this case, but I had to think what if the user selects a wrong option the first time.
+with accordion the user has to go to the bottom to select another option but with the tabs the position is fixed and user has to just select another tabs.
+Going with tab, did some reading from http://ux.stackexchange.com/questions/6093/accordions-vs-tabs

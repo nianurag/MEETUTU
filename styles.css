@@ -3,3 +3,13 @@ body {
   font-family: 'Open Sans', sans-serif;
   text-align: center;
 }
+
+label {
+}
+
+input[type=radio] {
+  display: none;
+}
+
+label::after{
+}
