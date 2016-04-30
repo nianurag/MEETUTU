@@ -4,12 +4,11 @@ body {
   text-align: center;
 }
 
-label {
+.map_bg {
+  background-image: url("http://ultraimg.com/images/d394234afb02.png");
+  background-size: cover;
 }
 
-input[type=radio] {
-  display: none;
-}
-
-label::after{
+.map_pin {
+  width: 12%;
 }
