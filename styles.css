@@ -12,3 +12,7 @@ body {
 .map_pin {
   width: 12%;
 }
+
+a {
+  text-decoration: none;
+}
